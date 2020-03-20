@@ -1,2 +1,3 @@
 Using pre-trained word embeddings was just worse than using trainables word embeddings. I could be that,
-the particular pre-trained word embedding wasn't that optimal to the problem at hand or I just lack the skills to make it work. 
+the particular pre-trained word embedding wasn't that optimal to the problem at hand or I just lack the skills to make it work. Also it is highly possible that using dropout or regularization with L1 or L2, would have made the model to overfit less and enable it to perform better.
+Please follow through the case 3 files in this order: Three rating categories V1, V2, Six rating categories V1, V2 and V3. Thank you.
