@@ -1,0 +1,2 @@
+Using pre-trained word embeddings was just worse than using trainables word embeddings. I could be that,
+the particular pre-trained word embedding wasn't that optimal to the problem at hand or I just lack the skills to make it work. 
